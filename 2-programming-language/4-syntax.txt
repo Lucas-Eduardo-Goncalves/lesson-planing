@@ -1,0 +1,7 @@
+Sintaxe
+  - Conjunto de regras de escrita.
+  - Cada linguagem tem suas regras.
+  - Símbolos
+    * {} () ; = + -
+  - Palavras reservadas.
+    * if, else, while, for, var, let, const 

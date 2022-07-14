@@ -1,0 +1,12 @@
+Quais são suas características e objetivos?
+
+  - Fácil entendimento para o usuário;
+    _ Experiência do usuário.
+  
+  - Controle de hardware;
+    _ Uso de periféricos.
+    _ Memória.
+    _ HD.
+  
+  - Gerenciamentode softwares;
+    _ Programas.

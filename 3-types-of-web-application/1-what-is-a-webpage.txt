@@ -1,0 +1,9 @@
+O que é uma webpage?
+  - Página web.
+  - Acessado pelo navegador.
+  - Encontrado pelo endereço universal URL (Uniform Resource Locator).
+    * https://dojotec.dev
+  - Resposta dada pelo servidor é uma copia da pagina.
+    * HTML, hyper text markup lenguage
+    * CSS, cascading style sheet
+    * Javascript

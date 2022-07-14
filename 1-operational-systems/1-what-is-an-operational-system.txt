@@ -1,0 +1,10 @@
+O que é um sistema operacional?
+
+  - Uma interface grafica entre o usuário e a maquina.
+  
+  - Um "programa" que irá controlar seu aparelho (celular ou computador);
+    _ Gerenciamento de dispositivos (hardware).
+    _ Gerenciamento de aplicativos e programas (software).
+    _ Gerenciamento de tarefas.
+
+  - Conversar com o computador em linguagem de maquina.

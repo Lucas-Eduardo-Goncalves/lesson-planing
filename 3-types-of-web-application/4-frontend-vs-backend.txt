@@ -1,0 +1,17 @@
+Front-end
+  - Cliente (client-side).
+  - Browser.
+    * Digita a URL e faz um pedido (request) para o servidor.
+  - Tecnologias:
+    * HTML, CSS, Javascript, Imagens.
+    * Frameworks (Angular).
+    * Bibliotecas (ReactJS).
+
+Back-end
+  - Servidor (server-side).
+  - Recebe o pedido do front-end
+    * Entende e processa o pedido e devolve para o front-end.
+    * Regras de negocio da aplicação.
+  - Tecnologias:
+    * PHP, Java, Python, Javascript.
+    * Banco de dados

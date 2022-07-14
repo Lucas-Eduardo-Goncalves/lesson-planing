@@ -1,0 +1,30 @@
+Kernel
+  - O componente central.
+  - O primeiro modulo a ser iniciado.
+  - Permanece executando enquanto o S.O estiver ligado.
+
+  - Responsabilidades
+    _ Gerenciamento de memória, processos, armazenamento e dispositivos.
+
+Gerenciador de processos
+  - Processo é um programa em execução.
+  - Agendamento de processos (scheduling).
+    _ Qual processo está em execução agora.
+  - Thread
+    _ A divisão de um processo para melhor performance.
+    _ Um pedacinho do processo.
+    _ Poderá executar em paralelo.
+  - Multitasking
+    _ Várias tarefas podem ser executadas simultaneamente. (Troca muito rapida entre elas).
+    _ Tarefas em segundo plano.
+
+Gerenciador de arquivos
+  - File system.
+  - Organização e armazenamento dos arquivos.
+    _ Vídeos, imagens, documentos.
+  - Diretórios (pastas).
+  - Tipos de sistemas de arquivos.
+    _ FAT, NTFS (windows)
+    _ ext3, ext4 (linux)
+    _ HFS+, APFS (mac)
+    _ São criados quando formatamos o nosso disco, por exemplo.

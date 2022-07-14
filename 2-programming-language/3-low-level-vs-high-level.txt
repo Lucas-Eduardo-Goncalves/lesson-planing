@@ -1,0 +1,21 @@
+Low Level
+  - Significa baixo nível.
+  - Mais próxima da máquina, do binário.
+    * É mais dificil de ler e escrever.
+    * É mais rapida.
+  - Existe pouca interferência na tradução.
+  - A programação começou pelo baixo nível.
+  - Exemplo:
+    * Assembly.
+
+High Level
+  - Significa alto nível.
+  - Mais proxima da comunicação humana.
+    * if, else, function, object, class...
+  - Leva mais tempo para a máquina traduzir e entender.
+    * Compilar ou interpretar.
+    * Nada mais que milissegundos
+  - Exemplo:
+    * Javascript.
+    * Python.
+    * Rust.

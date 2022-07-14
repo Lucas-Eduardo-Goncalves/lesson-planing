@@ -1,0 +1,24 @@
+O que é uma linguagem de programação?
+
+  Usada para dar instruções ao computador.
+
+  Imagine um computador...
+    - input e output.
+    - Executa tarefas e faz cálculos.
+    - Mas ele só entende uma lingua: A binária.
+
+  Binária:
+    - 111 00000011 0000 
+    - Ligado e desligado.
+    - Bilhões de disjuntores que ligam e desligam.
+    - Mas é impossivel para o ser humado, escrever bilhoẽs de 0 e 1. 
+  
+  Abstração: 
+    - Transformação de linguagens.
+    - Podemos entender uma linguagem de programação.
+    - O computador também pode entender.
+    - Nós precisamos aprender a linguagem de programação.
+      _ Inglês
+      _ Existem inúmeras
+      _ São ferramentas para um determinado objetivo
+        * Games, I.A, Machine learning, Web

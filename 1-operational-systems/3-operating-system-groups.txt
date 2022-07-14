@@ -1,0 +1,9 @@
+Grupos de sistemas operacionais
+
+  Os grupos mais conhecidos são:
+
+  UNIX                     Windows
+  - Linux                  - Windows 7
+  - OS X (mac)             - Windows 10
+  - Android                - Windows 11
+  - iOS (iphone)           - Windows Server

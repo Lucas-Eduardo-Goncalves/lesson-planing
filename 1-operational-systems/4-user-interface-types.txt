@@ -1,0 +1,12 @@
+Tipos de interface de usuário
+
+  - GUI (Graphical User interface);
+    _ Interface gráfica, elementos gráficos;
+      * Cursor do mouse ou touch.
+      * Área de trabalho.
+      * Criar arquivos ou pastas.
+  
+  - CLI (Command-line interface);
+    _ Linha de comando.
+    _ Emitir comandos em texto para o computador.
+      * Criar arquivos e pastas por exemplo.

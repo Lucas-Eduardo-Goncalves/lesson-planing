@@ -1,0 +1,13 @@
+Aplicação WEB tradicional
+  - Recarregar a página para ter o conteúdo atualizado.
+  - Front-end e Back-end numa só aplicação.
+  - Servidor processa e devolve toda a página de uma só vez.
+
+SPA
+  - Single Page Application.
+    * A sensação é de ter uma única página.
+  - Não precisa recarregar a página para ter o conteúdo atualizado.
+  - Front-end e Back-end são aplicações diferentes.
+  - Servidor responde a aplicação Front-end.
+    * Front-end feito com uso de frameworks.
+    * Back-end é no formato de API.

@@ -1,0 +1,13 @@
+Web Application
+  - Um programa, um software que vive no servidor.
+    * Linguagens de programação.
+    * Bando de dados.
+  - Utilizados através de páginas web e pelo navegador.
+  - É mais complexo e possui mais requisitos.
+  - Exemplo: Facebook, Gmail, Youtube, Figma...
+
+DESAFIOS:
+  - Adaptação nos diversos dispositivos (responsividade).
+  - Performance.
+  - Acessibilidade.
+    * Visual, auditiva, SEO

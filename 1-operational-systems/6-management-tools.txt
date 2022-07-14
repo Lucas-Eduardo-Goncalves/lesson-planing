@@ -1,0 +1,10 @@
+Ferramentas de gerenciamento
+  - Tarefas
+    _ task manager (windows)
+    _ activity (mac)
+    _ system monitor (linux)
+  - Pacotes
+    _ chocolatey (windows)
+    _ brew (mac)
+    _ apt (linux)
+    _ snap (linux)

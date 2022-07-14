@@ -1,0 +1,20 @@
+O que é codar?
+  - Escrever para computador
+  - Seguir regras
+  - Linguagem humana x máquina
+
+  if(input === password) {
+    unlockPhone();
+  } else {
+    tryAngain();
+  }
+
+  - Curiosidades
+    _ A pessoa que cria códigos;
+      * Programadora, Desenvolvedora, Dev, Developer...
+    _ Código vs programa.
+    _ Códigos são comandos, ordens, instruções ao computador.
+    _ O computador provavelmente irá traduzir o seu código.
+    _ Existem códigos em muitos eletrônicos;
+      * microondas, semáforos, roteadores, avião...
+    _ Codar é simples

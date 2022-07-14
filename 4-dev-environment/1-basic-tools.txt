@@ -1,0 +1,12 @@
+Ferramentas básicas
+  - Computador
+  - Editor de texto
+    _ Visual Studio Code
+    _ Sublime
+    _ Atom
+  - Navegador
+    _ Chrome
+    _ Edge
+    _ Firefox
+    _ Safari
+    _ Brave

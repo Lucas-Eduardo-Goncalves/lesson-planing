@@ -1,0 +1,21 @@
+Website
+  - Sites
+  - Agrupamento, estruturado (arquitetado) de várias páginas WEB.
+  - Pode ser: 
+    * Estático
+    * Dinâmico
+  - Um usuário comum não sabe diferenciar um estático de um dinâmico
+  - https://whimsical.com/Qvzm3HtyaqASjUze5S7dHL 
+
+Estático
+  - Paginas estáticas.
+    * A pagina é sempre a mesma.
+    * Alteração direto no código e por quem a criou.
+  - Não interage com banco de dados.
+
+Dinâmico
+  - Conteúdo da página é dinâmico.
+  - Interage com banco de dados.
+    * Dados + modelo de página = página dinâmica.
+  - Modificação sem precisar mexer no código.
+  - Com o mesmo modelo de página, é gerada uma pagína em tempo real.
